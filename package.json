@@ -1,0 +1,41 @@
+{
+  "name": "nodestability",
+  "version": "1.4.0",
+  "description": "The NodeStability module is a powerful tool for enhancing the stability of Node.js applications. It actively prevents crashes by handling and logging various types of errors, providing a robust and reliable foundation for your Node.js projects. With features like crash prevention, webhook integration, and customizable options, NodeStability ensures your applications remain stable, even in challenging scenarios. Easily configure and integrate NodeStability to monitor, prevent, and respond to errors effectively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeaxTV/nodestability.git"
+  },
+  "keywords": [
+    "discord",
+    "anti",
+    "anticrash",
+    "anti-crash",
+    "crash",
+    "nocrash",
+    "preventcrash",
+    "prevent",
+    "discord.js",
+    "easy-anticrash",
+    "discord-crash",
+    "stability",
+    "nodestability",
+    "node-stability"
+  ],
+  "author": "DeaxTV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeaxTV/nodestability/issues"
+  },
+  "homepage": "https://github.com/DeaxTV/nodestability#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "colors": "^1.4.0",
+    "discord.js": "^13.14.0",
+    "events": "^3.3.0"
+  }
+}
